@@ -54,9 +54,11 @@ let name = "John"; ==> name["John"]
 
 ## if
 
+if <condition>, else, else if <condition>
+
 ## match
 
-## loop 
+## loop
 
 ## for
 
